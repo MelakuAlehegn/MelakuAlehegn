@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on web based projects.
 - Feel free to collaborate, fork or clone any of my projects. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelakuAlehegn)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelakuAlehegn&show_icons=true&bg_color=00000000)
 
 <!---
 MelakuAlehegn/MelakuAlehegn
