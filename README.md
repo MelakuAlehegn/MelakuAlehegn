@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MelakuAlehegn. I am a full stack developer with a particular interest in making simple solutions for web-based problems. I try to keep up with security and best practices, and am always looking for new things to learn.
-- 👀 I’m interested in Python, web programming, Cloud DevOps, CI/CD 
-- 💞️ I’m looking to collaborate on web based projects.
-- Feel free to collaborate, fork or clone any of my projects. 
+- With a rich background spanning 2 years, I specialize in crafting immersive web experiences through the MEVN (MongoDB, Express.js, Vue.js, Node.js) stack. My expertise extends seamlessly across JavaScript, Vue.js, and Node.js, complemented by a mastery of Python and Flask.
+- Collaborative by nature, I excel in deciphering client requirements to deliver tailored solutions.
+- A catalyst for innovation, I've successfully implemented online counseling systems, meticulously designed wireframes, and orchestrated visually captivating landing pages within the MEVN ecosystem.
+- Embracing a continuous learning mindset, I thrive on transforming client visions into distinctive and dynamic web solutions.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelakuAlehegn&show_icons=true&bg_color=00000000)
 
