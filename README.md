@@ -26,11 +26,11 @@ Engineering write-ups on **[Medium](https://medium.com/@melakualehegn34)** and *
 
 #### Stack
 
-**Languages:** `Python` · `Java 21` · `JavaScript` · `Bash`
-**ML & MLOps:** `Scikit-learn` · `TensorFlow` · `MLflow` · `Airflow` · `Celery` · `Kafka` · `Pandas` · `NumPy`
-**Backend & Data:** `FastAPI` · `Flask` · `PostgreSQL` · `Docker` · `REST APIs` · `Snowflake` · `DBT`
-**LLMs & Agents:** `Gemini` · `Claude` · `LangChain` · `ChromaDB` · `MCP` · `Bluesky AT Protocol`
-**Cloud & BI:** `AWS` · `GCP` · `Metabase` · `PowerBI`
+**Languages:** `Python` · `Java 21` · `JavaScript` · `Bash` <br>
+**ML & MLOps:** `Scikit-learn` · `TensorFlow` · `MLflow` · `Airflow` · `Celery` · `Kafka` · `Pandas` · `NumPy` <br>
+**Backend & Data:** `FastAPI` · `Flask` · `PostgreSQL` · `Docker` · `REST APIs` · `Snowflake` · `DBT` <br>
+**LLMs & Agents:** `Gemini` · `Claude` · `LangChain` · `ChromaDB` · `MCP` · `Bluesky AT Protocol` <br>
+**Cloud & BI:** `AWS` · `GCP` · `Metabase` · `PowerBI` <br>
 
 #### Reach me
 
