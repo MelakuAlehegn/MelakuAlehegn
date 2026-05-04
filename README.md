@@ -2,7 +2,7 @@
 
 Software Engineer (AI/ML) building production ML and LLM-based systems.
 
-I'm currently a Data Scientist at **Arifpay** in Addis Ababa, working on fraud detection, credit scoring, and continuous-learning pipelines. Outside of work, I go deep into agentic AI architecture -- multi-agent orchestration, the Model Context Protocol, and LLM applications that survive real production constraints.
+I'm Software Engineer (AI/ML) based in Addis Ababa building production ML and LLM-based systems. I currentely work at **[Arifpay](https://arifpay.net/)** on fraud detection, credit scoring, and continuous-learning pipelines. Outside of work, I go deep into agentic AI architecture -- multi-agent orchestration, the Model Context Protocol, and LLM applications that survive real production constraints.
 
 ---
 
