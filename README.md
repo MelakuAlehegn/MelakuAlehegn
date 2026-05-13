@@ -2,14 +2,14 @@
 
 Software Engineer (AI/ML) building production ML and LLM-based systems.
 
-I'm Software Engineer (AI/ML) based in Addis Ababa building production ML and LLM-based systems. I currentely work at **[Arifpay](https://arifpay.net/)** on fraud detection, credit scoring, and continuous-learning pipelines. Outside of work, I go deep into agentic AI architecture -- multi-agent orchestration, the Model Context Protocol, and LLM applications that survive real production constraints.
+I'm Software Engineer (AI/ML) based in Addis Ababa building production ML and LLM-based systems.
 
 ---
 
 #### What I'm building
 
 - **[Project Chimera](https://github.com/MelakuAlehegn/project-chimera)** -- autonomous AI influencer in Java 21. Manager / Worker / Judge agent architecture, real LLM-backed reasoning (Gemini), event-sourced memory in PostgreSQL, custom MCP client, autonomous Bluesky publishing. Real social network APIs end-to-end.
-- **[Data Warehouse](https://github.com/MelakuAlehegn/Data-Warehouse)** -- data pipeline  built with Airflow + DBT.
+- **[Data Warehouse](https://github.com/MelakuAlehegn/pneuma-data-warehouse)** -- data pipeline  built with Airflow + DBT.
 
 
 #### Open source
